@@ -47,7 +47,7 @@ A collaborative project focused on applying DevOps practices to an application d
 
 ## 🎓 Certifications & Learning
 
-- **AWS Certified Cloud Practitioner**
+- **AWS Cloud Practitioner**
 - **Cloud Architecture on AWS — NTI Training**
 - Continuous hands-on learning in DevOps tooling, cloud architecture, automation, and monitoring
 
