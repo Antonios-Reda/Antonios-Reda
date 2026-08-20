@@ -53,15 +53,7 @@ A collaborative project focused on applying DevOps practices to an application d
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antonios-Reda&show_icons=true&theme=tokyonight&hide_border=true" alt="Antonios's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonios-Reda&theme=tokyonight&hide_border=true" alt="Antonios's GitHub streak" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
